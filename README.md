@@ -31,16 +31,14 @@ this [installation](https://www.mongodb.com/try/download/community).
 
 ### Installation
 
-
 Download the source code from github repository at https://github.com/Totti-S/WWW_HT_Codegrader.git \
 preferably to own folder
 
-Once downloaded, open the source code folder with command prompt and \
-install dependencies with `npm install`.
+Once downloaded, open the source code folder with command prompt and install dependencies with `npm install`.
 
 When completed, you can start the application using `npm run dev` in \
 command prompt at the source code folder. This should run the app. If it dosen't open browser \
-automatically open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+automatically, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## User Manual
