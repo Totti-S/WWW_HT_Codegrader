@@ -32,7 +32,7 @@ this [installation](https://www.mongodb.com/try/download/community).
 ### Installation
 
 
-Download the source code from github repository at https://github.com \
+Download the source code from github repository at https://github.com/Totti-S/WWW_HT_Codegrader.git \
 preferably to own folder
 
 Once downloaded, open the source code folder with command prompt and \
