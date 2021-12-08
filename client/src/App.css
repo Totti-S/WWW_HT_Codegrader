@@ -1,0 +1,111 @@
+.App {
+}
+
+.smallPost {
+  border: 1px solid;
+}
+
+.Home {
+    margin-left: 10px
+}
+.post {
+  margin: 10px;
+  border-style: solid;
+  border-width: 1px
+}
+.addPost {
+  border-style: solid;
+  border-width: 12px
+}
+
+.wrapper-pager{
+
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.pager {
+  border:1px solid;
+  display: flex;
+  align-items: center;
+}
+
+.user {
+  align-items: center;
+  display: flex;
+  border: 1px solid;
+}
+
+.comments{
+  border: 1px solid;
+  
+}
+
+.userInfo  {
+  margin-top: 0;
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center; 
+}
+
+.userInfo p {
+  diplay: inline-block;
+  vertical-align: middle;
+  margin: 1em;
+}
+
+.likeElement {
+  display: flex;
+}
+
+.content {
+  margin-block-start: 0;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.profile-pic {
+  height: 100%;
+  width: 100%;
+  max-width: 150px;
+  max-height: 600px;
+}
+
+.profile-pic-small {
+  height: 100%;
+  width: 100%;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
