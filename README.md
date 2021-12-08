@@ -36,6 +36,7 @@ preferably to own folder
 
 Once downloaded, open the source code folder with command prompt and install dependencies with `npm install`.
 It may need to install dependencies in folders "server" and "client" as well. This hasn't been verified.
+If needed, use the same command `npm install` to other folders.
 
 When completed, you can start the application using `npm run dev` in \
 command prompt at the source code folder. This should run the app. If it dosen't open browser \
