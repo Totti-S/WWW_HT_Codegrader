@@ -35,6 +35,7 @@ Download the source code from github repository at https://github.com/Totti-S/WW
 preferably to own folder
 
 Once downloaded, open the source code folder with command prompt and install dependencies with `npm install`.
+It may need to install dependencies in folders "server" and "client" as well. This hasn't been verified.
 
 When completed, you can start the application using `npm run dev` in \
 command prompt at the source code folder. This should run the app. If it dosen't open browser \
