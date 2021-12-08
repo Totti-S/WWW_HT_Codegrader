@@ -7,7 +7,7 @@ post new codes, comment and like different code posts other user have made.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Additional documentation: Source code has relation pictures. "MongoDB-Relations" is little outdated, but mostly correct.
+**Additional documentation**: Source code has relation pictures. "MongoDB-Relations" is little outdated, but mostly correct.
 
 ## Table of Contents
 
